@@ -1,1 +1,2 @@
 this is example1 dev2
+this is changed becaus merge conflict
